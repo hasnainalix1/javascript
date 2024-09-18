@@ -26,7 +26,7 @@ console.log ("117 - 58 = " + s);
 var q = (197);
 var r = (18);
 var s = (q * r);
-console.log ("197  x  18 = " + s);
+console.log ("17  x  48 = " + s);
 
 //Illegal Variable
 // var function = (12);
